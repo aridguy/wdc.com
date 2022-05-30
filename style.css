@@ -1,0 +1,19 @@
+.text{
+	color: red;
+}
+
+.headers{
+	color: green;
+}
+
+.apply, .regi{
+	width: 100%;
+}
+
+.last{
+	padding-bottom: 7em;
+}
+
+.errorpop{
+	display: none;
+}
